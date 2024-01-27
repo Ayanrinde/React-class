@@ -29,11 +29,10 @@ function App () {
     {/* <Buttonn style="text-orange-500" title={"Edit"}/> */}
     {/* <Buttonn style="text-yellow-500" title={"Delete"}/> */}
     {/* <Buttonn title={"Create"}/> */}
-
-   </> 
+    
+    </> 
   )
 }
-
 
 
 export default App
